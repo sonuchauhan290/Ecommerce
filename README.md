@@ -38,7 +38,7 @@ A full-stack e-commerce web application built as an ITI  project. Features a mod
 - Sorting (newest, price low-to-high, price high-to-low, rating)
 - Pagination for product lists
 - Product reviews and ratings
-
+ 
 ### 🛒 Cart & Checkout
 - Add/remove items with quantity adjustment
 - Persistent cart for logged-in users
