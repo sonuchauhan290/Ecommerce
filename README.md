@@ -7,6 +7,7 @@ A full-stack e-commerce web application built as an ITI  project. Features a mod
 
 ## 📋 Table of Contents
 
+
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Live Demo](#-live-demo)
